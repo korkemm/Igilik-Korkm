@@ -1,0 +1,321 @@
+
+Mini Project: Computer Software Setup and Security
+Topics:
+ Topic 1.4 — Installing and Configuring Drivers
+ Topic 1.5 — Installing and Configuring Office Applications
+ Topic 1.6 — Installing and Configuring Antivirus Software
+
+Project Scenario
+You are working as a junior IT technician.
+A new employee has received a computer, but the computer is not fully configured.
+Some devices do not work correctly, office software is not installed, and the computer
+needs basic security protection.
+Your task is to prepare the computer for everyday professional use.
+You must complete three stages of the project.
+
+WEEK 1 — Drivers
+Topic 1.4: Installing and Configuring Drivers
+Task 1. Computer Diagnosis
+Before installing anything, collect information about the computer.
+Create a table:
+Component Model /
+Name
+
+Driver
+Status
+
+Proble
+m
+
+CPU
+RAM
+Graphics Card
+Network
+Adapter
+Audio Device
+Printer
+Other Device
+
+Task 2. Identify Driver Problems
+Open Device Manager and check the installed devices.
+Find:
+ devices without drivers;
+
+ devices with errors;
+ outdated drivers;
+ unknown devices.
+For each problem, write:
+
+1. Device name
+2. Type of device
+3. Current driver status
+4. Possible solution
+   Task 3. Driver Installation
+   Choose at least 2 devices and:
+5. Find the correct driver.
+6. Identify the manufacturer.
+7. Find the official source.
+8. Download the driver.
+9. Install it.
+10. Restart the computer if necessary.
+11. Check whether the device works correctly.
+    Evidence
+    Students must provide:
+     Screenshot of the device before installation
+     Screenshot of the driver installation
+     Screenshot of the device after installation
+     Screenshot showing that there are no driver errors
+    Short Report
+    Answer:
+12. What is a device driver?
+13. Why are drivers necessary?
+14. What can happen if a driver is missing?
+15. Why should drivers be downloaded from official sources?
+16. How can you check whether a driver is installed correctly?
+
+WEEK 2 — Office Applications
+Topic 1.5: Installing and Configuring Office Applications
+Now the computer needs to be prepared for office work.
+Task 4. Select Office Software
+Choose an office software package.
+Examples:
+ Microsoft 365 / Microsoft Office
+ LibreOffice
+ Another approved office package
+Important: Use only legal and authorized software.
+Students must record:
+ Software name
+ Version
+ Developer
+ Operating system compatibility
+ License type
+ Installation source
+
+Task 5. Installation
+Install the selected office package.
+During installation:
+
+1. Check system requirements.
+2. Start the installer.
+3. Select the appropriate installation type.
+4. Select necessary components.
+5. Complete the installation.
+6. Launch the applications.
+7. Check that they work correctly.
+
+Task 6. Configure the Applications
+Configure at least three applications.
+For example:
+
+Word processor
+ Language
+ Default font
+ Save location
+ AutoSave/AutoRecovery
+Spreadsheet application
+ Language
+ Number/date format
+ Default save format
+Presentation application
+ Default presentation format
+ Language
+ Save settings
+
+Task 7. Create Test Files
+Create:
+
+1. Document
+   The document must contain:
+    Title
+    Student name
+    Date
+    Short text about computer security
+    At least one table
+    At least one image
+2. Spreadsheet
+   Create a table with at least 10 rows.
+   For example:
+   Student Assignment
+
+1
+
+Assignment
+2
+
+Assignment
+3
+
+Averag
+e
+
+Student
+1
+
+85 90 78
+
+Student
+2
+
+72 88 91
+Calculate the average using a formula.
+
+3. Presentation
+   Create a presentation of 5–7 slides on:
+   “Safe Computer Configuration”
+   WEEK 3 — Antivirus
+   Topic 1.6: Installing and Configuring Antivirus Software
+   The final stage is computer protection.
+   Task 8. Security Check Before Installation
+   Check the current security status of the computer.
+   Record:
+    Operating system security status
+    Antivirus status
+    Firewall status
+    Security updates
+    Last security scan
+   Take screenshots.
+
+Task 9. Install / Configure Antivirus
+Use an approved antivirus solution.
+Students must:
+
+1. Install or activate antivirus protection.
+2. Update the antivirus database.
+3. Check real-time protection.
+4. Check firewall/security settings.
+5. Configure automatic updates.
+6. Run a full system scan.
+   Do not use real malware for testing.
+
+Task 10. Antivirus Configuration
+Configure at least:
+ Real-time protection
+ Automatic updates
+ Scheduled scanning
+ Web protection, if available
+
+ Quarantine settings
+ Notifications
+Record the selected settings.
+FINAL MINI-PROJECT
+At the end of the three weeks, students must demonstrate a fully prepared computer.
+The final configuration should include:
+
+1. Drivers
+    Required drivers installed
+    Devices recognized
+    No critical driver errors
+2. Office Software
+    Office package installed
+    At least three applications configured
+    Test files created
+3. Security
+    Antivirus installed/activated
+    Antivirus updated
+    Real-time protection enabled
+    Full scan completed
+    Security settings checked
+
+Final Documentation
+Students prepare a Computer Configuration Report.
+Report structure
+
+1. Student Information
+    Name
+    Group
+    Date
+    Computer number
+2. Computer Specifications
+    CPU
+    RAM
+    Storage
+
+ Operating system
+3\. Drivers
+ Installed drivers
+ Problems found
+ Solutions
+ Screenshots
+4\. Office Applications
+ Software name and version
+ Installation process
+ Configuration
+ Test files
+ Screenshots
+5\. Antivirus
+ Antivirus name
+ Version
+ Configuration
+ Scan result
+ Screenshots
+6\. Problems and Solutions
+Students must describe at least 3 problems they encountered during the project and
+explain how they solved them.
+Problem Cause Solution Result
+
+7. Conclusion
+   Students write a short conclusion:
+    What did you learn?
+    What was the most difficult part?
+    What problems did you solve?
+    What would you do differently next time?
+
+Final Presentation
+
+Each student/team gives a 5–7 minute presentation.
+They should demonstrate:
+Before → Installation → Configuration → Testing → Final Result
+Students must show actual screenshots/evidence rather than simply explaining the
+theory.
+
+Deliverables
+At the end of the project, students submit one project folder:
+Student_Name_PM03_Project/
+│
+├── 01_Drivers/
+│ ├── Before/
+│ ├── Installation/
+│ └── After/
+│
+├── 02_Office/
+│ ├── Documents/
+│ ├── Spreadsheet/
+│ └── Presentation/
+│
+├── 03_Antivirus/
+│ ├── Configuration/
+│ └── Scan_Result/
+│
+└── Final_Report.pdf
+Assessment — 100 points
+CRITERION POINT
+S
+COMPUTER DIAGNOSIS 10
+DRIVER INSTALLATION AND
+CONFIGURATION
+
+20
+OFFICE SOFTWARE INSTALLATION 15
+OFFICE SOFTWARE CONFIGURATION 15
+ANTIVIRUS INSTALLATION/CONFIGURATION 15
+
+TESTING AND TROUBLESHOOTING 10
+SCREENSHOTS/EVIDENCE 5
+FINAL REPORT 5
+FINAL PRESENTATION 5
+TOTAL 100
+
+Main requirement
+Students should not simply install programs and take screenshots. They must
+explain what they installed, why they installed it, how they configured it, what
+problems they encountered, and how
+
+During this mini-project, I learned how to prepare a computer for everyday professional use. I learned how to check computer hardware and identify driver problems using Device Manager. I also learned how to install and configure device drivers and verify that devices work correctly after installation.
+
+Another important part of the project was installing and configuring office applications. I practiced working with a word processor, spreadsheet application and presentation software. I created test files and configured basic application settings.
+
+I also learned how to check and configure computer security. I checked Windows Security, antivirus protection, firewall settings and security updates. I learned why real-time protection and regular security scans are important for protecting a computer from threats.
+
+The most difficult part of the project was identifying and solving configuration problems. Troubleshooting required checking the system carefully and choosing appropriate solutions instead of simply reinstalling software.
+
+The project helped me understand that a computer technician should not only install software but also test the system, solve problems and document the results. In the future, I would take screenshots during every important step and record driver and software versions immediately to make the final documentation more accurate.
